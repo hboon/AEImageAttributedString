@@ -1,0 +1,22 @@
+# OS X noise
+.DS_Store
+
+# vi swap files
+*.swp
+
+# Xcode noise
+build/
+*.pbxuser
+*.mode1v3
+config
+project.xcworkspace/
+xcuserdata/
+
+# RubyMotion
+*.bridgesupport
+build-iPhoneOS/
+build-iPhoneSimulator/
+
+# Other tools
+tags
+.idea
